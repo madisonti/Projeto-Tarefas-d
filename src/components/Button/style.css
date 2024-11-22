@@ -1,0 +1,28 @@
+.container_btn {
+    display: flex;
+    gap: 20px;
+    /* background-color: aqua; */
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.btn_primario{
+    background-color: #E7213F;
+    height: 50px;
+    border: none;
+    border-bottom-left-radius: 30px;
+    padding: 10px;
+    color: white;
+    width: 250px;
+}
+
+.btn_secundario {
+    background-color: #16D18A;
+    height: 50px;
+    border: none;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    color: white;
+    width: 250px;
+
+}
